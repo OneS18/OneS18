@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning Nodejs / DS&Algo .
 - 🔭 I’m currently working on some fun projects what I can learn from them.
 
 
