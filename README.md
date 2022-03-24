@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 I’m currently learning Nodejs / DS&Algo .
-- 🔭 I’m currently working on some fun projects what I can learn from them.
+- 🌱 I’m currently learning MERN-stack.
+- 🔭 I’m currently working on some fun projects and for them I use MERN-stack.
 
 
 
