@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h2> Hey there! I'm Sergiu.</h2>
+<h2> I'm Sergiu.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
